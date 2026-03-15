@@ -1,0 +1,5 @@
+pandas
+requests
+openai==2.28.0
+beautifulsoup4==4.13.3
+ipython==8.34.0
